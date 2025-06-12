@@ -11,7 +11,7 @@ I love building projects that challenge me and let me learn new skills.
 
 ## 🚀 Projects
 
-- [Chat-App](https://github.com/yourusername/chat-app): A WhatsApp-like chat app built with Fastify and SSE
+- [Chat-App](https://github.com/Waide17/chat-app): A WhatsApp-like chat app built with Fastify and SSE
 
 ## 🎯 Goals
 
