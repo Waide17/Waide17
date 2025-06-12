@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Gabriele 👋
 
-<!--
-**Waide17/Waide17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Italian computer science student passionate about web and game development. I have experience with C++, JavaScript, React, Node.js, and more.  
+I love building projects that challenge me and let me learn new skills.
 
-Here are some ideas to get you started:
+## 💻 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Languages: C++, JavaScript, Java, Assembly, HTML, CSS  
+- Frameworks & Tools: React, Node.js, Git, Fastify  
+- Interests: Game development, full-stack web apps, exploring tech behind the scenes
+
+## 🚀 Projects
+
+- [Chat-App](https://github.com/yourusername/chat-app): A WhatsApp-like chat app built with Fastify and SSE
+
+## 🎯 Goals
+
+I aim to become a game developer and continue improving my full-stack web skills.  
+I'm always curious to explore new technologies and work on creative projects.
+
+## 📫 Contact Me
+
+- Email: gabrielepalladino0@gmail.com 
+
+Thanks for visiting my profile!
