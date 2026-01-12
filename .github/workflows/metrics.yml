@@ -13,4 +13,4 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           user: Waide17
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
