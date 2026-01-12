@@ -1,0 +1,16 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # ogni giorno a mezzanotte
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          user: Waide17
+          github_token: ${{ secrets.GITHUB_TOKEN }}
